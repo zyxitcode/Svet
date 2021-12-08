@@ -38,6 +38,7 @@ class ViewController: UIViewController {
             yellowLabel.alpha = 0.2
             greenLabel.alpha = 0.2
             startNextButton.setTitle("NEXT", for: .normal)
+            
         }
         
         if startNextButton.isTouchInside {
