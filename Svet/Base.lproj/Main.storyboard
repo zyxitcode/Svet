@@ -65,6 +65,7 @@
                     <connections>
                         <outlet property="greenLabel" destination="bHV-BS-8mI" id="d4p-tu-GFx"/>
                         <outlet property="redLabel" destination="ZRG-dI-cch" id="Kyh-hU-azX"/>
+                        <outlet property="startNextButton" destination="OXk-eO-o6I" id="ObW-3p-tbT"/>
                         <outlet property="yellowLabel" destination="630-xk-5I4" id="V9G-nz-GeP"/>
                     </connections>
                 </viewController>
